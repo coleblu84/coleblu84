@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
 <h3 align="center">a current Software Engineering student looking to break away from retail.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coleblu84" alt="coleblu84" /></a> </p>
-
 - 🔭 I’m currently working on [Sprint 5 - Spots on Triple Ten](git@github.com:coleblu84/se_project_spots.git)
 
 - 🌱 I’m currently learning **JavaScript with more to come on Triple Ten**
@@ -26,5 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coleblu84"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coleblu84" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coleblu84&show_icons=true&locale=en" alt="coleblu84" /></p>
