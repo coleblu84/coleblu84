@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
 <h3 align="center">a current Software Engineering student looking to break away from retail.</h3>
 
@@ -19,7 +17,7 @@
 <a href="https://stackoverflow.com/users/30662020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30662020" height="30" width="40" /></a>
 <a href="https://fb.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coleblu84" height="30" width="40" /></a>
 <a href="https://instagram.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coleblu84" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coleblu84" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/user-jg9ks2kg1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="user-jg9ks2kg1s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
