@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **coleblu84@gmail.com**
 
-- ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge at times. I look up random things that most people that think of and remember it.**
+- ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge. I look up random things that most people that think of and remember it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 <a href="https://stackoverflow.com/users/30662020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30662020" height="30" width="40" /></a>
 <a href="https://fb.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coleblu84" height="30" width="40" /></a>
 <a href="https://instagram.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coleblu84" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coleblu84" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
