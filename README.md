@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **coleblu84@gmail.com**
 
-- ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge. I look up random things that most people that think of and remember it.**
+- ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge at times. I look up random things that most people that think of and remember it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
