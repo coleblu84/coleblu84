@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
 <h3 align="center">a current Software Engineering student looking to break away from retail.</h3>
 
-- 🔭 I’m currently working on [Sprint 5 - Spots on Triple Ten](git@github.com:coleblu84/se_project_spots.git)
+- 🔭 I’m currently working on **Sprint 6 with Triple Ten**
 
 - 🌱 I’m currently learning **JavaScript with more to come on Triple Ten**
+
+- 💬 Ask me about **HTML & CSS**
 
 - 📫 How to reach me **coleblu84@gmail.com**
 
