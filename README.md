@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
-<h3 align="center">a current Software Engineering student looking to break away from retail.</h3>
+<h3 align="center">a current Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or Front-end Developer.</h3>
 
-- 🔭 I’m currently working on **Sprint 6 with Triple Ten**
+- 🔭 I’m currently working on [Sprint 7 with Triple Ten](https://github.com/coleblu84/se_project_spots.git)
 
-- 🌱 I’m currently learning **JavaScript with more to come on Triple Ten**
+- 🌱 I’m currently learning **Object-Oriented Programming with more to come on Triple Ten**
 
 - 💬 Ask me about **HTML & CSS**
 
