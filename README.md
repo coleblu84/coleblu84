@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **coleblu84@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Ff5Of0BJNDUqPo5qYqFjfyhJeTIm5k3Y/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true](https://docs.google.com/document/d/1Ff5Of0BJNDUqPo5qYqFjfyhJeTIm5k3Y/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true)
-
 - ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge. I look up random things that most people that think of and remember it.**
 
 <h3 align="left">Connect with me:</h3>
