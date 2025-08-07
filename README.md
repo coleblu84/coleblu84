@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
 <h3 align="center">a current Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or Front-end Developer.</h3>
 
-- 🔭 I’m currently working on [Sprint 7 with Triple Ten](https://github.com/coleblu84/se_project_spots.git)
+- 🔭 I’m currently working on [Todo-App on Triple Ten Sprint 7](https://github.com/coleblu84/se_project_todo-app.git)
 
-- 🌱 I’m currently learning **Object-Oriented Programming with more to come on Triple Ten**
+- 🌱 I’m currently learning **advanced OOP within the Triple ten course.**
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **HTML, CSS, Basic JavaScript**
 
 - 📫 How to reach me **coleblu84@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Ff5Of0BJNDUqPo5qYqFjfyhJeTIm5k3Y/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true](https://docs.google.com/document/d/1Ff5Of0BJNDUqPo5qYqFjfyhJeTIm5k3Y/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true)
 
 - ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge. I look up random things that most people that think of and remember it.**
 
