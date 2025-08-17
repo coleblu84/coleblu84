@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Todo-App on Triple Ten Sprint 7](https://github.com/coleblu84/se_project_todo-app.git)
 
-- 🌱 I’m currently learning **advanced OOP within the Triple ten course.**
+- 🌱 I’m currently learning **Asynchronous JavaScript and Working with API's**
 
-- 💬 Ask me about **HTML, CSS, Basic JavaScript**
+- 💬 Ask me about **HTML, CSS, & Basic JavaScript**
 
 - 📫 How to reach me **coleblu84@gmail.com**
 
-- ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge. I look up random things that most people that think of and remember it.**
+- ⚡ Fun fact **A small toy country boy. Who has a nerdy side. With a love of Star Trek. Trying to break out of the retail world into tech. Who has called himself a book of useless knowledge. I look up random things that most people don't that think of and remember it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
