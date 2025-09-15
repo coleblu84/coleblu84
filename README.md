@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-coleblu84@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coleblu84@gmail.com)](mailto:coleblu84@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
+[![📄 Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1_0Ww8jHJJguuCPWUNpCUE76HrESPWJiw/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true)
 
 
 <h3 align="center">a current Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or DevOps Engineer.</h3>
@@ -12,8 +13,6 @@
 - 🌱 Let's learn together: **React.js**
 
 - 💬 Keep working hard & leveling up those skills every day: **HTML, CSS, JavaScript, Basic Node.js, Webpack's, & REST API's**
-
-- 📄 [Resume](https://docs.google.com/document/d/1_0Ww8jHJJguuCPWUNpCUE76HrESPWJiw/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true)
 
 - ⚡ Fun fact: **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
 
