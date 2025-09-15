@@ -7,15 +7,15 @@
 
 <h3 align="center">a current Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or DevOps Engineer.</h3>
 
-- 🔭 I’m currently working on [Hello - Vite](https://github.com/coleblu84/Hello-vite.git)
+- 🔭 I’m currently working on **my first React project on TripleTen**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Let's learn together: **React.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Basic Node.js, Webpack's, & REST API's**
+- 💬 Keep working hard & leveling up those skills every day: **HTML, CSS, JavaScript, Basic Node.js, Webpack's, & REST API's**
 
-- 📫 How to reach me **coleblu84@gmail.com**
+- 📄 Resume: [https://docs.google.com/document/d/1_0Ww8jHJJguuCPWUNpCUE76HrESPWJiw/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true](https://docs.google.com/document/d/1_0Ww8jHJJguuCPWUNpCUE76HrESPWJiw/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
+- ⚡ Fun fact: **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
