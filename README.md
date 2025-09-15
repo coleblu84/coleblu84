@@ -13,7 +13,7 @@
 
 - 💬 Keep working hard & leveling up those skills every day: **HTML, CSS, JavaScript, Basic Node.js, Webpack's, & REST API's**
 
-- 📄 Resume: [https://docs.google.com/document/d/1_0Ww8jHJJguuCPWUNpCUE76HrESPWJiw/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true](https://docs.google.com/document/d/1_0Ww8jHJJguuCPWUNpCUE76HrESPWJiw/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true)
+- 📄 [Resume](https://docs.google.com/document/d/1_0Ww8jHJJguuCPWUNpCUE76HrESPWJiw/edit?usp=drive_link&ouid=111473223003498438985&rtpof=true&sd=true)
 
 - ⚡ Fun fact: **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
 
