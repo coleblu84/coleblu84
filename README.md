@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
-<h3 align="center">[![Gmail Badge](https://img.shields.io/badge/-coleblu84@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coleblu84@gmail.com)](mailto:coleblu84@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84) <p align='left'></h3>
+<h3 align="center">a current Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or DevOps Engineer.</h3>
 
 - 🔭 I’m currently working on [Hello - Vite](https://github.com/coleblu84/Hello-vite.git)
 
