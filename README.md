@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
 [![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=google-docs&logoColor=white&color=FFD700)](https://docs.google.com/document/d/1yb9OVkav6GTkyMNdh86PchCS7bwdgVIl/edit?usp=sharing&ouid=111473223003498438985&rtpof=true&sd=true)
