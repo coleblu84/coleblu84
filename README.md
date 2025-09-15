@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm C.J. Cole</h1>
-<h3 align="center">a current Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or DevOps Engineer</h3>
+<h3 align="center">[![Gmail Badge](https://img.shields.io/badge/-coleblu84@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coleblu84@gmail.com)](mailto:coleblu84@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84) <p align='left'></h3>
 
 - 🔭 I’m currently working on [Hello - Vite](https://github.com/coleblu84/Hello-vite.git)
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Basic Node.js, Webpack's, & APIs**
+- 💬 Ask me about **HTML, CSS, JavaScript, Basic Node.js, Webpack's, & REST API's**
 
 - 📫 How to reach me **coleblu84@gmail.com**
 
-- ⚡ Fun fact **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a ‘book of useless knowledge’—I tend to look up random things most people wouldn’t think about and somehow remember them.**
+- ⚡ Fun fact **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
