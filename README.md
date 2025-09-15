@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
 [![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=google-docs&logoColor=white&color=FFD700)](https://docs.google.com/document/d/1yb9OVkav6GTkyMNdh86PchCS7bwdgVIl/edit?usp=sharing&ouid=111473223003498438985&rtpof=true&sd=true)
 
-<h3 align="center">a current Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or DevOps Engineer.</h3>
+<h3 align="center">I am currently a Software Engineering student looking to break away from retail. Looking for a career as a Web Developer, QA Automation Engineer, or DevOps Engineer.</h3>
 
 - 🔭 I’m currently working on **my first React project on TripleTen**
 
