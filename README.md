@@ -11,9 +11,11 @@
 
 - 🌱 Let's learn together: **React.js**
 
-- 📝 last articles I have read: [https://www.freecodecamp.org/news/before-you-code-remember-to-prep-for-your-coding-interview-2ccfb58147db/,https://writing.pupius.co.uk/whiteboarding-4df873dbba2e](https://www.freecodecamp.org/news/before-you-code-remember-to-prep-for-your-coding-interview-2ccfb58147db/,https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
+- 📝 last article I have read: [https://www.freecodecamp.org/news/before-you-code-remember-to-prep-for-your-coding-interview-2ccfb58147db/](https://www.freecodecamp.org/news/before-you-code-remember-to-prep-for-your-coding-interview-2ccfb58147db/)
 
 - 💬 Keep working hard & leveling up those skills every day: **HTML, CSS, JavaScript, Basic Node.js, Webpack's, & REST API's**
+
+- 📝 another article I have read: [https://writing.pupius.co.uk/whiteboarding-4df873dbba2e](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
 
 - ⚡ Fun fact: **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
 
