@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
 [![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=google-docs&logoColor=white&color=FFD700)](https://docs.google.com/document/d/1a5bYJX_wxxU6-w77Zov0BJsGKLuKzEPT/view?usp=sharing)
 
-<h3 align="center">and I am a software engineering student transitioning from a strong background in retail leadership. Currently building skills in web development, QA automation, and DevOps, with a goal of launching a career in tech.</h3>
+<h3 align="center">I am a software engineering student transitioning from a strong background in retail leadership. Currently building skills in web development, QA automation, and DevOps, with a goal of launching a career in tech.</h3>
 
 - 🔭 I’m currently working on [Backend of WTWR](https://github.com/coleblu84/se_project_express.git)
 
