@@ -7,8 +7,6 @@
 
 <h3 align="center">Software Engineering student transitioning from a strong background in retail leadership. Currently building skills in web development, QA automation, and DevOps, with a goal of launching a career in tech.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coleblu84" alt="coleblu84" /></a> </p>
-
 - 🔭 I’m currently working on [my full stack project](https://github.com/coleblu84/se_project_express.git)
 
 - 🌱 Let's learn together: **finishing up SE bootcamp, so let's improve on that knowledge.**
@@ -33,7 +31,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coleblu84"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coleblu84" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coleblu84&show_icons=true&locale=en&layout=compact" alt="coleblu84" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coleblu84&show_icons=true&locale=en" alt="coleblu84" /></p>
