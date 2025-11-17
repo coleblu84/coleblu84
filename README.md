@@ -3,8 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
-[![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=googledocs&logoColor=black)](https://docs.google.com/document/d/1Qq4G72lpcIwb4jV9FpehDqQWkMIUqw_A/edit?usp=sharing&ouid=111473223003498438985&rtpof=true&sd=true)
-
+[![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=googledocs&logoColor=black)](https://docs.google.com/document/d/1GnOTGMIo0AbrvDF3d80734url2tfT8UX/edit?usp=sharing&ouid=111473223003498438985&rtpof=true&sd=true)
 
 <h3 align="center">I am a software engineering student transitioning from a strong background in retail leadership. Currently building skills in web development, QA automation, and DevOps, with a goal of launching a career in tech.</h3>
 
