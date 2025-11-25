@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm C.J. Cole</h1>
+<h1 align="center">Hi 👋, I'm  Carlie (C.J.) Cole</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) 
@@ -7,9 +7,11 @@
 
 <h3 align="center">Software Engineering student transitioning from a strong background in retail leadership. Currently building skills in web development, QA automation, and DevOps, with a goal of launching a career in tech.</h3>
 
-- 🔭 I’m currently working on [my full stack project](https://github.com/coleblu84/se_project_express.git)
+- 🔭 I’m currently working on [Final Project (News Explorer)](https://github.com/coleblu84/final-project.git)
 
 - 🌱 Let's learn together: **finishing up SE bootcamp, so let's improve on that knowledge.**
+
+- 📝All of my projects are available at [https://github.com/coleblu84](https://github.com/coleblu84)
 
 - 💬 Keep working hard & leveling up those skills every day: **HTML, CSS, JavaScript, Node.js, Webpack's, RESTful API's, React.js, express.js, & more**
 
@@ -31,3 +33,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coleblu84"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coleblu84" /></a></p><br><br>
+
