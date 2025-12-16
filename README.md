@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
 [![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=googledocs&logoColor=black)](https://docs.google.com/document/d/1GnOTGMIo0AbrvDF3d80734url2tfT8UX/edit?usp=sharing&ouid=111473223003498438985&rtpof=true&sd=true)
 
-<h3 align="center">I’m a web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program. Since then, I've built projects using JavaScript, React, Node.js, Express, and APIs — and I've learned how much I enjoy turning ideas into real, functional products. Outside of tech, I'm a small-town country boy with a nerdy side, a love for Star Trek, and a habit of looking up random facts most people never think about — and somehow remembering all of them. I believe in staying curious, working hard, and enjoying the journey as much as the results.</h3>
+<h3 align="center">a retail manager turn web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program.</h3>
 
 - 🤝 I’m looking for help with [NewsExplorer](https://github.com/coleblu84/final-project)
 
