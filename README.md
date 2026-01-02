@@ -2,7 +2,7 @@
 
 [![Business Card (Digital)](https://img.shields.io/badge/Business%20Card%20(Digital)-90EE90?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMSIgeT0iMiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHJ4PSIxIi8+PHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjMiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjEiLz48L3N2Zz4=&logoColor=white)](https://dot.cards/coleblu84)
 [![Gmail Badge](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzh2NS42NjhoLTMuNTU0VjloMy40MTR2MS41NjFoLjA0OWMuNDc1LS45IDEtMS44NDQgMi44MDUtMS44NDQgMy4wMDIgMCAzLjU1NSAxLjk3NSAzLjU1NSA0LjU0NnY2LjE4OXpNNS4zMzUgNy40MzFjLTEuMTQ0IDAtMi4wN)]()
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
 [![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=googledocs&logoColor=black)](https://docs.google.com/document/d/1GnOTGMIo0AbrvDF3d80734url2tfT8UX/edit?usp=sharing&ouid=111473223003498438985&rtpof=true&sd=true)
 
