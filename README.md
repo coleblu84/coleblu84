@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Carlie (C.J.) Cole</h1>
 
+[![Digital Business Card](https://img.shields.io/badge/Digital%20Business%20Card-90EE90?style=flat&logo=googlecontacts&logoColor=white)](https://dot.cards/coleblu84)
 [![Gmail Badge](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
