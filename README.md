@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Carlie (C.J.) Cole</h1>
 
-[![Business Card](https://img.shields.io/badge/Digital%20Business%20Card-90EE90?style=flat&logo=googlecontacts&logoColor=white)](https://dot.cards/coleblu84)
+[![Business Card (Digital)](https://img.shields.io/badge/Business%20Card%20(Digital)-90EE90?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMSIgeT0iMiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHJ4PSIxIi8+PHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjMiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjEiLz48L3N2Zz4=&logoColor=white)](https://dot.cards/coleblu84)
+
 [![Gmail Badge](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coleblu84) 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
