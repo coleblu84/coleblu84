@@ -8,7 +8,7 @@
 
 <h3 align="center">a retail manager turned web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program.</h3>
 
-- 🤝 I’m looking for help with [NewsExplorer](https://github.com/coleblu84/final-project)
+- 🌱 What's next to learn **TypeScript & Python**
 
 - 💬 Keep working hard to level up those skills every day: **HTML, CSS, JavaScript, Node.js, Webpack's, RESTful API's, React.js, express.js, & more**
 
@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="coleblu84" height="30" width="40" /></a>
 <a href="https://dev.to/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="coleblu84" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coleblu84" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30662020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30662020" height="30" width="40" /></a>
 <a href="https://instagram.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coleblu84" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coleblu84" height="30" width="40" /></a>
