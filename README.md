@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Carlie (C.J.) Cole</h1>
+<h1 align="center">Hi 👋, I'm Carlie (C.J.) Cole</h1>
 
 [![Business Card (Digital)](https://img.shields.io/badge/Business%20Card%20(Digital)-90EE90?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMSIgeT0iMiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHJ4PSIxIi8+PHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjMiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjEiLz48L3N2Zz4=&logoColor=white)](https://dot.cards/coleblu84)
 [![Gmail Badge](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:coleblu84@gmail.com)
@@ -6,11 +6,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/coleblu84)
 [![Resume](https://img.shields.io/badge/Resume-FFD700?style=flat&logo=googledocs&logoColor=black)](https://docs.google.com/document/d/1GnOTGMIo0AbrvDF3d80734url2tfT8UX/edit?usp=sharing&ouid=111473223003498438985&rtpof=true&sd=true)
 
-<h3 align="center">a retail manager turned web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program.</h3>
+<h3 align="center">and I am a retail manager turned web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program.</h3>
 
-- 🌱 What's next to learn **TypeScript & Python**
+- 🌱 What's next to learn: **TypeScript & Python**
 
 - 💬 Keep working hard to level up those skills every day: **HTML, CSS, JavaScript, Node.js, Webpack's, RESTful API's, React.js, express.js, & more**
+
+- 📫 How to reach me: **coleblu84@gmail.com**
 
 - ⚡ Fun fact **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
 
@@ -22,6 +24,7 @@
 <a href="https://stackoverflow.com/users/30662020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30662020" height="30" width="40" /></a>
 <a href="https://instagram.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coleblu84" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coleblu84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coleblu84" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/32174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="32174" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
