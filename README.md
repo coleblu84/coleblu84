@@ -8,6 +8,8 @@
 
 <h3 align="center">and I am a retail manager turned web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program.</h3>
 
+- 🔭 I’m currently working on [Personal Portfolio](https://github.com/coleblu84/Portfolio.git)
+
 - 🌱 What's next to learn: **TypeScript & Python**
 
 - 💬 Keep working hard to level up those skills every day: **HTML, CSS, JavaScript, Node.js, Webpack's, RESTful API's, React.js, express.js, & more**
