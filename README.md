@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **coleblu84@gmail.com**
 
-- ⚡ Fun fact **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"—I tend to look up random things most people wouldn’t think about and somehow remember them.**
+- ⚡ Fun fact **I’m a small-town country boy with a nerdy side and a love for Star Trek. I’m working on transitioning from retail into the tech world. I like to joke that I’m a "book of useless knowledge"— I tend to look up random things most people wouldn’t think about and somehow remember them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
