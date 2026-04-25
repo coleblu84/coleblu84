@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlie (C.J.) Cole</h1>
 
 [![Business Card (Digital)](https://img.shields.io/badge/Business%20Card%20(Digital)-90EE90?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMSIgeT0iMiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHJ4PSIxIi8+PHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjMiIHk9IjYiIHdpZHRoPSI2IiBoZWlnaHQ9IjEiLz48L3N2Zz4=&logoColor=white)](https://dot.cards/coleblu84)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=person&logoColor=black)](https://coletechstack.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=aboutdotme&logoColor=black)](https://coletechstack.com/)
 
 <h3 align="center">and I am a retail manager turned web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program.</h3>
 
