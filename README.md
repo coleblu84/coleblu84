@@ -5,7 +5,7 @@
 
 <h3 align="center">and I am a retail manager turned web developer who loves creating clean, responsive, and user-friendly applications. After spending more than 20 years in retail leadership, I decided to make a big change and transition into software engineering through TripleTen's full-stack program.</h3>
 
-- 👨‍💻 Portfolio Link: [https://coletechstack.com/](https://coletechstack.com/)
+- 🌐 Portfolio Link: [https://coletechstack.com/](https://coletechstack.com/)
   
 - 📫 How to reach me: **coleblu84@gmail.com**
 
